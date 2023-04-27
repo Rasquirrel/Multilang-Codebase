@@ -1,7 +1,9 @@
 ## Introduction
 
 This repository contains code examples from some programming languages:
-- Ruby
+- Ruby:
+- Rust;
+- Python.
 
 ## How to Navigate Trough this Repository
 
