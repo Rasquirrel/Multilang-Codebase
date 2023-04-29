@@ -1,0 +1,1 @@
+/home/carlosgabrielnn/Documentos/GitHub/estudando_rust/variaveis/aprendendo_sobre_variaveis/target/debug/aprendendo_sobre_variaveis: /home/carlosgabrielnn/Documentos/GitHub/estudando_rust/variaveis/aprendendo_sobre_variaveis/src/main.rs
