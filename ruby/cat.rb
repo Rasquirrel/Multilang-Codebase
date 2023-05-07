@@ -1,6 +1,8 @@
 # Cat class!
 class Cat
   # A simple cat!
+  attr_accessor :name
+
   def initialize(name = 'cat')
     @name = name.capitalize!
   end
@@ -27,3 +29,5 @@ end
 
 cat1 = Cat.new(cat_name)
 cat1.meow
+
+puts "The cat name is #{cat1.name}"
